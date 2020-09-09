@@ -1,2 +1,5 @@
 # MUSA508_MDH
-A really great repo
+
+*******
+
+A really good repo! I wish I had someone to collab with!
